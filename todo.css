@@ -1,0 +1,15 @@
+.container {
+    text-align: left;
+}
+
+legend {
+    text-align: center
+}
+
+button {
+    margin-top: 10px
+}
+
+input {
+    border-radius: 2px;
+}
